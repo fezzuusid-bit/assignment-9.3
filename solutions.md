@@ -96,11 +96,11 @@ HTML
                 <ul class="footer-links">
                     <li><a href="#hero">Home</a></li>
                     <li><a href="#features">Features</a></li>
-                    <li><a href="https://github.com/AtimAkhtar" target="_blank" rel="noopener">GitHub</a></li>
+                    <li><a href="https://github.com/falak siddiqui" target="_blank" rel="noopener">GitHub</a></li>
                 </ul>
             </div>
             <div class="footer-bottom">
-                <p>&copy; 2026 Atim Akhtar. All rights reserved.</p>
+                <p>&copy; 2026 falak siddiqui. All rights reserved.</p>
             </div>
         </footer>
     </div>
